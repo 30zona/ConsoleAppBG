@@ -10,6 +10,6 @@ namespace Ivancic
     internal class NewClass
     {
         int aDASDAS = 5;
-        
+        volim nikolinu2
     }
 }
